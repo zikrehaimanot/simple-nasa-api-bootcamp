@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(nasaPic.jpg);
+}
+h1{
+  color: black;
+  font-size: 40px;
+}
+p{
+  color:black;
+  font-size: 40px;
+}
+form{
+  margin-left: 750px;
+}
+button{
+  font-size: 17px;
+}
+input{
+  font-size: 15px;
+}
+img{
+  margin-left: 500px;
+  height: 500px;
+  width: 40%;
+}
+iframe{
+  margin-left: 900px;
+  margin-top: 30px;
+  border: white;
+}
